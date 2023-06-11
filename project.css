@@ -1,0 +1,26 @@
+.btn{
+    color: blueviolet;
+    background-color: yellow;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    margin-left: 300px;
+    margin-top: 230px;
+     /* font-size:165%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */ */
+}
+
+    
+#heading{
+    color: blueviolet;
+    text-align: center;
+    font-size:60px;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btn:hover{
+    background-color: rgb(145, 91, 26);
+    transition: 0.3s;
+}
+
+
